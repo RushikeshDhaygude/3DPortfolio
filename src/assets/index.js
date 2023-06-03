@@ -27,7 +27,7 @@ import Linkcode from "./company/Linkcode.png";
 import Internshala from "./company/Internshala.png";
 import CodeIntuit from "./company/CodeIntuit.png";
 
-import carrent from "./carrent.png";
+import carrent from "./Carrent.png";
 import Ayush from "./tech/Ayush.jpg";
 import tripguide from "./tripguide.png";
 
